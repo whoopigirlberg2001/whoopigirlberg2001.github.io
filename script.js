@@ -1,1 +1,1 @@
-<script>alert('XSS');</script>
+<p>Hello, this is my message!</p>
