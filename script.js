@@ -1,1 +1,1 @@
-<script>alert("XSS")</script>
+console.log("XSS_TEST");
