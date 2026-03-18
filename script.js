@@ -1,1 +1,1 @@
-SELECT * FROM users WHERE login = 'admin' OR 1=1
+<script>alert("XSS")</script>
