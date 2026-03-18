@@ -1,1 +1,2 @@
-console.log("XSS_TEST");
+console.log("SCRIPT LOADED");
+alert("It works");
